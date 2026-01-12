@@ -1,3 +1,3 @@
 # Chatgpt
-Repo for Chatgpt link :) \n
+Repo for Chatgpt link :) 
 https://chatgpt.com/
